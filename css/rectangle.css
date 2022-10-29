@@ -1,0 +1,10 @@
+.rectangle {
+  height: 75px;
+  width: 75px;
+  color:white;
+  background-color: rgb(77,77,77);
+  border-radius:7px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
