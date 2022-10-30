@@ -1,9 +1,9 @@
 .mobile-nav {
-  background: #F1F1F1;
+  background: #272929;
   position: fixed;
-  bottom: 0;
+  bottom: 10;
   height: 65px;
-  width: 100%;
+  width: 70%;
   display: flex;
   justify-content: space-around;
 }
