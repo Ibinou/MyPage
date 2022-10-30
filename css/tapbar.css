@@ -15,8 +15,4 @@
 .bloc-icon img {
   width: 60px;
 }
-@media screen and (min-width: 600px) {
-  .mobile-nav {
-  display: none;
-  }
-}
+
