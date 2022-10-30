@@ -1,0 +1,11 @@
+      .slider{
+        display:flex;
+        overflow-x: auto;
+        -webkit-overflow-scrolling:touch;
+      }
+
+      .slider div{
+        flex-shrink:0;
+        width:65px;
+        height:65px;
+      }
