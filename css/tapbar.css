@@ -9,6 +9,7 @@ body {
     height: 55px;
     box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
     background-color: #44444;
+    filter: blur(1.5rem);
     display: flex;
     overflow-x: auto;
 }
