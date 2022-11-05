@@ -6,7 +6,7 @@
   display: flex;
   justify-content: space-around;
   -webkit-backdrop-filter: saturate(180%) blur(20px);
-  backdrop-filter: saturate(180%) blur(20px);
+  backdrop-filter: saturate(180%) blur(40px);
   background: rgba(0, 0, 0, 0);
 }
 .bloc-icon {
@@ -15,5 +15,5 @@
   align-items: center;
 }
 .bloc-icon img {
-  width: 45px;
+  width: 48px;
 }
