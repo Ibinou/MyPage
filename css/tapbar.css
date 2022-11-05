@@ -1,12 +1,12 @@
 .mobile-nav {
-  background: #424240;
+  background: rgba(0, 0, 0, 0);
   position: fixed;
   bottom: 0;
   height: 65px;
   width: 100%;
   display: flex;
   justify-content: space-around;
-  backdrop-filter: blur(5px);
+  backdrop-filter: saturate(180%) blur(20px);
 }
 .bloc-icon {
   display: flex;
