@@ -7,7 +7,7 @@
   justify-content: space-around;
   -webkit-backdrop-filter: saturate(180%) blur(15px);
   backdrop-filter: saturate(180%) blur(15px);
-  background-color: rgba(52, 52, 52, 0.4);
+  background-color: rgba(18, 18, 18, 0.4);
   border-top: 1px solid rgb(45, 45, 45);
 }
 .bloc-icon {
