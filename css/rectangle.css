@@ -1,10 +1,18 @@
-.rectangle {
-  height: 60px;
-  width: 190px;
-  color:white;
-  background-color: rgb(77,77,77);
-  border-radius:10px;
-  display: flex;
-  justify-content:center;
-  align-items: center;
+element.style {
+}
+.item {
+    border-radius: 15px;
+    background-color: rgb(29, 29, 29);
+    border: 1px solid rgb(45, 45, 45);
+    margin: 10px;
+    padding: 10px;
+    position: relative;
+    box-sizing: border-box;
+}
+* {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+feuille de style user-agent
+div {
+    display: block;
 }
