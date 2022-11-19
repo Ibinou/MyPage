@@ -1,18 +1,15 @@
-@supports ((-webkit-backdrop-filter:blur(20px)) or (backdrop-filter:blur(20px)))
-.nav {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background-color: rgb(0,0,0,.6);
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    -webkit-backdrop-filter: blur(20px);
-    backdrop-filter: blur(20px);
-}
-feuille de style user-agent
-div {
-    display: block;
+.mobile-nav {
+  position: fixed;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  height: 53px;
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  -webkit-backdrop-filter: saturate(180%) blur(15px);
+  backdrop-filter: saturate(180%) blur(15px);
+  background-color: rgba(42, 42, 42, 0.4);
+  border-bottom: 1px solid rgb(45, 45, 45);
 }
 .bloc-icon {
   display: flex;
