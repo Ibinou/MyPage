@@ -1,7 +1,7 @@
 .mobile-nav {
   position: fixed;
-  padding-bottom: 20px;
-  padding-top: 20px;
+  padding-bottom: 5px;
+  padding-top: 5px;
   height: 53px;
   width: 100%;
   display: flex;
