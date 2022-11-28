@@ -6,7 +6,8 @@
   width: 100%;
   display: flex;
   justify-content: space-around;
-  -webkit-backdrop-filter: saturate(180%) blur(15px);
+  background-color: rgb(255,255,255,.6);
+  -webkit-backdrop-filter: saturate(130%) blur(35px);
   backdrop-filter: saturate(130%) blur(35px);
   border-bottom: 1px solid rgb(238, 238, 238);
 }
