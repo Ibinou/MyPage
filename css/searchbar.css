@@ -1,6 +1,5 @@
 .rectangle div{
-  height: 45px;
-  width: 300px;
+  box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);   
   color:white;
   background-color: rgb(35,35,35);
   border-radius:10px;
