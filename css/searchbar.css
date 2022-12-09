@@ -1,19 +1,10 @@
-#myInput {
-    background-position: 10px 12px;
-    background-repeat: no-repeat; 
-    width: 55%; 
-    font-size: 16px;
-    padding: 12px 20px 12px 100px;
-    margin-bottom: 12px;
-    margin:10px;
-    border-radius:13px;
-    background-color: #000000;
-    color: #cf4242;
-  }
-  
-  #myUL {
-    /* Remove default list styling */
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
-  }
+.rectangle div{
+  height: 45px;
+  width: 300px;
+  color:white;
+  background-color: rgb(35,35,35);
+  border-radius:10px;
+  display: flex;
+  justify-content:center;
+  align-items: center;
+}
