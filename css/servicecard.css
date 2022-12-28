@@ -23,12 +23,12 @@
 }
 
 .card-container .card {
-    height: 250px;
+    height: 220px;
     width: 300px;
     background: #f5f5f5;
     margin: 20px;
     padding: 20px;
-    border-radius: 10px;
+    border-radius: 19px;
 }
 
 .card img {
