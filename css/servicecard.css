@@ -39,10 +39,12 @@
 .card h4 {
     font-weight: 600;
     margin: 10px 0px;
+    color: rgb(000, 000, 000)
 }
 
 .card p {
     font-size: 12px;
+    color: rgb(38, 38, 38)
 }
 
 @media (max-width: 1000px) {
