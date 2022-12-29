@@ -1,0 +1,39 @@
+.github {
+    background: #383737;
+}
+.btn {
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+    display: inline-block;
+    padding: 6px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.twitter {
+    background: #2f3445;
+}
+.btn {
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+    display: inline-block;
+    padding: 6px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.discord {
+    background: #415973;
+}
+.btn {
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+    height: 25px;
+    display: inline-block;
+    padding: 6px;
+    font-size: 20px;
+    font-weight: 700;
+}
