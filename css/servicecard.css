@@ -32,8 +32,9 @@
 }
 
 .card img {
-    max-width: 100px;
+    max-width: 90px;
     object-fit: cover;
+    border-radius: 20px;
 }
 
 .card h3 {
