@@ -47,6 +47,7 @@
 .card p {
     font-size: 15px;
     color: rgb(38, 38, 38)
+    margin-bottom: 15px;
 }
 
 @media (max-width: 1000px) {
